@@ -1,0 +1,63 @@
+
+  * {
+    font-family: sans-serif;
+}
+  
+  .float-box {
+    height: 100px;
+    width: 100%;
+  }
+
+
+  
+  
+  .square {
+    height: 75px;
+    width: 75px;
+    display: inline-block;
+    background-color: rgb(99, 112, 231);
+    margin: 0 10px;
+    
+  }
+
+  .rectangle {
+    line-height: 30px;
+    letter-spacing: 5px;
+    text-align: center;
+  }
+
+  .rectangle {
+    height: 200px;
+    width: 100%;
+  }
+  
+  .rectangle {
+    background-color:white;
+    box-sizing: border-box;
+    padding: 100px;
+
+  }
+  
+  .rectangle-1 {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(109, 165, 230);
+  }
+  
+  .rectangle-2 {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(106, 240, 211);
+  }
+  
+  .rectangle-3 {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(188, 235, 141);
+  }
+  
+  .rectangle-4 {
+    height: 100px;
+    width: 100%;
+    background-color: rgb(238, 227, 103);
+  }
